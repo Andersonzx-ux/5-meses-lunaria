@@ -1,0 +1,20 @@
+{
+  "name": "lunaria",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lunária — A Cidade Onde Mora o Nosso Amor",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "3.90.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "vite": "8.3.6"
+  }
+}
