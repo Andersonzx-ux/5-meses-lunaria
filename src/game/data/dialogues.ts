@@ -66,7 +66,7 @@ export const DIALOGUES = {
     { speaker: AURORA, text: 'Boa noite, querida! Hoje a cafeteria virou açaiteria, só pra lembrar daquela noite.' },
     { speaker: AURORA, text: 'Ele te chamou pra sair uma vez, e não deu. Chamou de novo, e também não. Na terceira, decidiu que seria a última tentativa.' },
     { speaker: AURORA, text: 'Você avisou que sua prima ia junto. Ele respondeu que não tinha problema nenhum, que só queria te ver.' },
-    { speaker: AURORA, text: 'Vocês falaram de jogo, de LoL, de anime, de música… e o açaí foi ficando esquecido.' },
+    { speaker: AURORA, text: 'Vocês falaram de jogo, de LoL, de anime, de música… e o açaí para finalizar.' },
     { speaker: AURORA, text: 'No fim da noite você precisava ir embora. E deixou uma coisa pra ele guardar pra sempre.' },
   ],
   auroraAfter: [{ speaker: AURORA, text: 'Vocês saíram de novo, e de novo. O Seu Estelino, do cinema, viu tudo.' }],
