@@ -71,7 +71,7 @@ export const DISCOVERIES: readonly DiscoveryData[] = [
     location: 'emporio',
     title: 'O Mango Loco',
     message:
-      'Um Monster branco pra ele e um Mango Loco, já pago, esperando a próxima pessoa. Ele pediu aos céus que fosse você. E foi.',
+      'Um Monster branco pra ele e um Mango Loco para você, seu preferido. Ele pediu aos céus que fosse você. E foi.',
     required: true,
     requires: 'ingresso-pulseira',
     hint: 'Algo geladinho no Empório…',
